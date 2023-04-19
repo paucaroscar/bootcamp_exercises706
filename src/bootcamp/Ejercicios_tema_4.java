@@ -36,7 +36,7 @@ public class Ejercicios_tema_4 {
         }
 
         switch (estacion){
-            case "primaver":
+            case "primavera":
                 System.out.println("ES PRIMAVERA");
                 break;
             case "verano":
